@@ -2,6 +2,21 @@
   text-align: center;
 }
 
+.greeting {
+  margin: 16px auto;
+  padding: 8px;
+  width: fit-content;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.world {
+  color: white;
+  background-color: black;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
